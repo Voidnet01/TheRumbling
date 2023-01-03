@@ -1,6 +1,6 @@
 # TheRumbling
 
-![image](https://user-images.githubusercontent.com/120144047/210410186-87f49eda-5ebb-4e14-b771-b100c6b03621.png)
+                     ![image](https://user-images.githubusercontent.com/120144047/210410186-87f49eda-5ebb-4e14-b771-b100c6b03621.png)
 
 
 
