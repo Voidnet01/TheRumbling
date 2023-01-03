@@ -7,7 +7,7 @@ Un escaner de vulnerabildades en bash
 
 [!] Esta herramienta fue creada solo para fines educativos, no me hago responsable del mal uso de la herramienta.
 
-Instalción:
+Instalación:
 
 *primero clona este repositorio
 
